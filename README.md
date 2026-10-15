@@ -98,9 +98,9 @@ Full walkthroughs and CTF write-ups on the [website](https://0xmrerror.me).
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=skandarhadrich-cell&theme=github-compact&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true"
+  src="https://ghchart.rshah.org/00FF41/skandarhadrich-cell"
   width="100%"
-  alt="Contribution activity graph"
+  alt="Contribution heatmap"
 />
 
 <img
